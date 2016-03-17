@@ -1,0 +1,57 @@
+body {
+  color:black;
+  background-color:#CD5C5C;
+  font-size: 1em;
+  font-family: serif;
+  text-decoration: none;
+}
+.Header {
+  margin-top: 2em;
+  background-color: #FFF8DC;
+}
+.List_A_Spot {
+  text-decoration: none;
+  float: right;
+  padding-right: 1em;
+  font-size: 1em;
+}
+.Sign_up {
+  text-decoration: none;
+  float: right;
+  padding-right: 1em;
+  font-size: 1em;
+}
+.Login {
+  text-decoration: none;
+  float: right;
+  padding-right: 1em;
+  font-size: 1em;
+}
+.Home {
+  text-align: center;
+  margin-top: 10em;
+}
+.Filters {
+  margin-left: 10em;
+  padding-top: 5em;
+}
+.signup_home {
+  text-align: center;
+  padding-top: 5em;
+}
+.login_home {
+  text-align: center;
+  padding-top: 5em;
+}
+h3 {
+  text-align: center;
+}
+.Explain_Account {
+  float: left;
+}
+.Explain_Find {
+
+}
+.Explain_List {
+
+}
